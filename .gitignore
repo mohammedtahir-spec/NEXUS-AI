@@ -1,0 +1,43 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Vector database and uploaded documents
+chroma_db/
+data/documents/
+*.pdf
+
+# Temporary and backup files
+*.log
+*.backup
+*.pre_hybrid_backup
+test.txt
+unsupported_test.docx
+
+# Local development and experimental scripts
+/debug_retrieval.py
+/debug_sections.py
+/compare_retrievers.py
+/test_*.py
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/coverage/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

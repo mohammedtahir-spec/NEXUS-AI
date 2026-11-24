@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.git/
+.gitignore
+chroma_db/
+data/
+frontend/
+test_*.py
+*.log
+.env
+.env.*

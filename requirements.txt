@@ -1,0 +1,8 @@
+chromadb==1.5.9
+fastapi==0.163.1
+ollama==0.6.3
+pypdf==7.1.0
+python-multipart==0.0.34
+rank-bm25==0.2.2
+sentence-transformers==6.3.0
+uvicorn==0.54.0
