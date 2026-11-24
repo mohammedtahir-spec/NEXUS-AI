@@ -153,8 +153,8 @@ Install the following:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd enterprise-rag
+git clone https://github.com/mohammedtahir-spec/NEXUS-AI.git
+cd NEXUS-AI
 ```
 
 ### 2. Download the LLM
@@ -352,4 +352,4 @@ The tests cover:
 
 ## License
 
-This project is currently a portfolio project. A license can be added before public release.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
